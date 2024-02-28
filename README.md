@@ -31,4 +31,4 @@ tomoki1207.pdf\
 xabikos.reactsnippets\
 xdebug.php-debug\
 xdebug.php-pack\
-zobo.php-intellisense\
+zobo.php-intellisense
