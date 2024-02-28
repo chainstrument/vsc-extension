@@ -1,16 +1,16 @@
 # vsc-extension
 
-amiralizadeh9480.laravel-extra-intellisense
-anteprimorac.html-end-tag-labels
-bmewburn.vscode-intelephense-client
-bracketpaircolordlw.bracket-pair-color-dlw
-burkeholland.simple-react-snippets
-dbaeumer.vscode-eslint
-dsznajder.es7-react-js-snippets
-dzhavat.bracket-pair-toggler
-esbenp.prettier-vscode
-fallenmax.mithril-emmet
-helgardrichard.helium-icon-theme
+amiralizadeh9480.laravel-extra-intellisense\
+anteprimorac.html-end-tag-labels\
+bmewburn.vscode-intelephense-client\
+bracketpaircolordlw.bracket-pair-color-dlw\
+burkeholland.simple-react-snippets\
+dbaeumer.vscode-eslint\
+dsznajder.es7-react-js-snippets\
+dzhavat.bracket-pair-toggler\
+esbenp.prettier-vscode\
+fallenmax.mithril-emmet\
+helgardrichard.helium-icon-theme\
 jamesmaj.easy-icons
 jzmstrjp.color-the-tag-name
 mblode.twig-language-2
