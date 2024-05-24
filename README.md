@@ -1,5 +1,10 @@
 # vsc-extension
 
+Pour installer les extensions vscode, il suffit de lancer le script install-extension.bat
+
+# Ajouter les extensions à installer dans le fichier liste.txt
+
+```bash
 amiralizadeh9480.laravel-extra-intellisense
 anteprimorac.html-end-tag-labels
 bmewburn.vscode-intelephense-client
@@ -32,3 +37,4 @@ xabikos.reactsnippets
 xdebug.php-debug
 xdebug.php-pack
 zobo.php-intellisense
+```

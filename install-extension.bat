@@ -31,7 +31,7 @@ for %%a in (%extensionsToInstall%) do (
         echo !extensionName! est déjà installé.
     ) else (
         echo Installation de !extensionName!... >> temp.txt
-        start /w code --install-extension !extensionName! --force /S
+        start /w cmd /c "code --install-extension !extensionName! && exit" 
     )  
 )
 
